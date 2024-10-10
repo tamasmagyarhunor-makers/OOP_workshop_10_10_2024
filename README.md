@@ -5,7 +5,7 @@
 ###### Refactor this code in the link using the OOP principles: https://github.com/emilybache/GildedRose-Refactoring-Kata/tree/main/python
 
 ## Exercise 2:
-#### Please write a paragraph listing some positives and some negatives about the following code. Then refactor this to apply the OOP Principles. Once you're done, send me a DM with a link to your repo and I will review it and give you feedback on it.
+###### Please write a paragraph listing some positives and some negatives about the following code. Then refactor this to apply the OOP Principles. Once you're done, send me a DM with a link to your repo and I will review it and give you feedback on it.
 ```python
     # type should be either of the following: "ball pen", "ink pen", "pencil"
     class WriteObject():
